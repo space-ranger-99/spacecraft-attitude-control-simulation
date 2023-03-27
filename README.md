@@ -2,7 +2,7 @@
 
 This repository contains a MATLAB script `attitude_simulation.m` that simulates the attitude control of a spacecraft. The script demonstrates the use of a control law for the attitude control of a spacecraft, defines the system parameters, solves the attitude dynamics, and plots the results for both the true and desired attitudes, as well as the attitude error over time.
 
-### Main Functions
+## Main Functions
 
 The script consists of the following main functions:
 
@@ -14,7 +14,7 @@ The script consists of the following main functions:
 - `control_law`: Implements the control law.
 - `plot_and_save_results`: Plots and saves the simulation results.
 
-### Usage
+## Usage
 
 To use the script, simply call the function `attitude_simulation()` in MATLAB. The script will run the simulation, plot the results, and save a figure with the simulation results as a PNG file named `attitude_simulation_results.png`.
 
@@ -24,11 +24,11 @@ attitude_simulation()
 
 ![Simulation Results](attitude_simulation_results.png)
 
-### Dependencies
+## Dependencies
 
 The script requires MATLAB and the ODE45 solver, which is included in the core MATLAB package.
 
-### Author
+## Author
 
 **Alexander Little**
 
@@ -36,5 +36,3 @@ The script requires MATLAB and the ODE45 solver, which is included in the core M
 - 📧 corbyn.little@torontomu.ca
 - 💼 [LinkedIn](https://www.linkedin.com/in/aclittle/)
 - 📚 [GitHub](https://github.com/space-ranger-99)
-
-*Version 1.0*
