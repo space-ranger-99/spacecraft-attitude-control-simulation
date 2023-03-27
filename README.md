@@ -1,4 +1,4 @@
-# Attitude Simulation for Spacecraft Control :artificial_satellite:
+# :artificial_satellite: Attitude Simulation for Spacecraft Control
 
 This repository contains a MATLAB script `attitude_simulation.m` that simulates the attitude control of a spacecraft. The script demonstrates the use of a control law for the attitude control of a spacecraft, defines the system parameters, solves the attitude dynamics, and plots the results for both the true and desired attitudes, as well as the attitude error over time.
 
