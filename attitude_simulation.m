@@ -23,8 +23,6 @@
 %
 % Author: Alexander Little
 % Affiliation: Toronto Metropolitan University
-% Date: 2023-03-26
-% Version: 1.0
 
 function attitude_simulation()
     params = init_params();
