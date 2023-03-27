@@ -22,6 +22,8 @@ To use the script, simply call the function `attitude_simulation()` in MATLAB. T
 attitude_simulation()
 ```
 
+![Simulation Results](attitude_simulation_results.png)
+
 ### Dependencies
 
 The script requires MATLAB and the ODE45 solver, which is included in the core MATLAB package.
